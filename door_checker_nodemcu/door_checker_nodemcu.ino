@@ -85,7 +85,7 @@ void setup() {
 
 	//------------------ Czytaj czujnik i wyœlij stan
 	readStateSendState();
-	OTAAllow = digitalRead(OTA_SWITCH_PIN);
+	OTAAllow = 1;// digitalRead(OTA_SWITCH_PIN);
 
 	//-------------- Jeœli switch jest w pozycji ota, ponimiñ deepSleep
 	if (OTAAllow == 0)
@@ -107,7 +107,7 @@ void loop() {
 	ArduinoOTA.handle();
 	server.handleClient();
 	unsigned long currentMillis = millis();
-	OTAAllow = digitalRead(OTA_SWITCH_PIN);
+	OTAAllow = 1; //digitalRead(OTA_SWITCH_PIN);
 
 	if ((currentMillis % 2000) == 0)
 	{
@@ -149,7 +149,7 @@ void readStateSendState()
 	url += "&switchcmd=";
 	url += chD7_state;
 
-	sendToDomoticz(url);
+	//sendToDomoticz(url);
 
 	delay(10);
 
@@ -160,7 +160,7 @@ void readStateSendState()
 	url += "&nvalue=0&svalue=";
 	url += (String)battery_percentage;
 
-	sendToDomoticz(url);
+	//sendToDomoticz(url);
 }
 
 void sendToDomoticz(String url)

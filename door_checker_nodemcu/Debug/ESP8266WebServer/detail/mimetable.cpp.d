@@ -1,4 +1,4 @@
-C:\Users\Piotr\AppData\Local\Temp\VMBuilds\door_checker_nodemcu\esp8266_nodemcuv2\Debug\ESP8266WebServer\detail\mimetable.cpp.o: \
+C:\Users\Piotr\AppData\Local\Temp\VMBuilds\door_checker_nodemcu\esp8266_d1_mini\Debug\ESP8266WebServer\detail\mimetable.cpp.o: \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\libraries\ESP8266WebServer\src\detail\mimetable.cpp \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\libraries\ESP8266WebServer\src\detail\mimetable.h \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\cores\esp8266/pgmspace.h \

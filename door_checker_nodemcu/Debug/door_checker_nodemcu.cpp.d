@@ -1,5 +1,5 @@
-C:\Users\Piotr\AppData\Local\Temp\VMBuilds\door_checker_nodemcu\esp8266_nodemcuv2\Debug\door_checker_nodemcu.cpp.o: \
- C:\Users\Piotr\AppData\Local\Temp\VMBuilds\door_checker_nodemcu\esp8266_nodemcuv2\Debug\door_checker_nodemcu.cpp \
+C:\Users\Piotr\AppData\Local\Temp\VMBuilds\door_checker_nodemcu\esp8266_d1_mini\Debug\door_checker_nodemcu.cpp.o: \
+ C:\Users\Piotr\AppData\Local\Temp\VMBuilds\door_checker_nodemcu\esp8266_d1_mini\Debug\door_checker_nodemcu.cpp \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\cores\esp8266/arduino.h \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1/tools/sdk/libc/xtensa-lx106-elf/include/stdlib.h \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1/tools/sdk/libc/xtensa-lx106-elf/include/machine/ieeefp.h \
@@ -57,8 +57,8 @@ C:\Users\Piotr\AppData\Local\Temp\VMBuilds\door_checker_nodemcu\esp8266_nodemcuv
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\cores\esp8266/Stream.h \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\cores\esp8266/md5.h \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\cores\esp8266/debug.h \
- C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\variants\nodemcu/pins_arduino.h \
- C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\variants\nodemcu/../generic/common.h \
+ C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\variants\d1_mini/pins_arduino.h \
+ C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\variants\d1_mini/../generic/common.h \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\libraries\ArduinoOTA/ArduinoOTA.h \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\libraries\ESP8266WiFi\src/ESP8266WiFi.h \
  C:\Users\Piotr\AppData\Local\arduino15\packages\esp8266\hardware\esp8266\2.4.1\libraries\ESP8266WiFi\src/include/wl_definitions.h \

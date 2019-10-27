@@ -12,7 +12,7 @@ String getStatusPage()
 		page += "locked";
 	page += "</title>";
 	page += "<style> body { background-color: #fffff; font-family: Arial, Helvetica, Sans-Serif; Color: #000088; }</style>";
-	page += "</head><body><h1>NODEMCU Status</h1>";
+	page += "</head><body><h1>Wemos D1</h1>";
 	//------------------------------------
 	page += "<h3>Inputs</h3>";
 	page += "Door lock status: ";
